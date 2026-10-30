@@ -1,0 +1,75 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TPS259851RQPR
+D Hot Swap Voltage Controllers 4.5-V to 16-V 0.59- mohm 80-A stackable
+K
+F https://www.ti.com/lit/gpn/tps25985
+$ENDCMP
+#
+$CMP MSD-4-A
+D Micro SD Card Connector, 9 Contacts, Connector and Ejector, Push In, Auto Eject Out, Surface Mount, 1.8 mm Height Above Board, Gold Flash
+K
+F https://www.sameskydevices.com/product/resource/msd-4-a.pdf
+$ENDCMP
+#
+$CMP M55-6004042R
+D Kontrol: 20+20 Pos Receptacle DIL Straight SMT Connector 6.25mm high Pegs SMT Hold-down (T+R)
+K
+F https://content.harwin.com/m/62649baf7a8e0cb3/original/DRG-02766-Technical-Drawing-Datasheet-M55-60X-pdf.pdf
+$ENDCMP
+#
+$CMP STX-3100-5N
+D Phone Connectors 3.5mm PCB STEREO BLK 5P W/SWITCH
+K
+F http://www.kycon.com/Pub_Eng_Draw/STX-3100-5N.pdf
+$ENDCMP
+#
+$CMP PMEG045V150EPDZ
+D Schottky Diodes & Rectifiers 45V 15A low VF MEGA Schottky barrier rec
+K
+F https://assets.nexperia.com/documents/data-sheet/PMEG045V150EPD.pdf
+$ENDCMP
+#
+$CMP EEH-ZU1H221P
+D 
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDD0000/ast-ind-156944.pdf
+$ENDCMP
+#
+$CMP MAX49921FATA_VY+T
+D 0 to 70V, High-Precision Current-Sense Amplifier
+K
+F https://www.analog.com/MAX49921/datasheet
+$ENDCMP
+#
+$CMP SI7137DP-T1-GE3
+D MOSFET -20V Vds 12V Vgs PowerPAK SO-8
+K
+F 
+$ENDCMP
+#
+$CMP WSLP25121L500FEA
+D 1.5 mOhms +/-1% 3W Chip Resistor 2512 (6332 Metric) Anti-Sulfur, Automotive AEC-Q200, Current Sense, Moisture Resistant, Pulse Withstanding Metal Element
+K
+F https://www.vishay.com/docs/30122/wslp.pdf
+$ENDCMP
+#
+$CMP TLV2374QPWRG4Q1
+D Automotive 550-uA/Ch 3-MHz Rail-to-Rail Input/Output Operational Amplifiers
+K
+F http://www.ti.com/lit/gpn/tlv2374-q1
+$ENDCMP
+#
+$CMP MAX11615EEE+
+D IC,ADC,MAX11615EEE+ Maxim MAX11615EEE+, 12 bit Parallel ADC, 8-channel Differential Input, 16-Pin QSOP
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX11612-MAX11617.pdf
+$ENDCMP
+#
+#End Doc Library
