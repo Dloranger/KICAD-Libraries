@@ -13,7 +13,7 @@ F https://www.ti.com/lit/gpn/tps25985
 $ENDCMP
 #
 $CMP MSD-4-A
-D Micro SD Card Connector, 9 Contacts, Connector and Ejector, Push In, Auto Eject Out, Surface Mount, 1.8 mm Height Above Board, Gold Flash
+D MSD-4-A - Micro SD Card Connector, 9 Contacts, Connector and Ejector, Push In, Auto Eject Out, Surface Mount, 1.8 mm Height Above Board, Gold Flash
 K
 F https://www.sameskydevices.com/product/resource/msd-4-a.pdf
 $ENDCMP
@@ -70,6 +70,84 @@ $CMP MAX11615EEE+
 D IC,ADC,MAX11615EEE+ Maxim MAX11615EEE+, 12 bit Parallel ADC, 8-channel Differential Input, 16-Pin QSOP
 K
 F https://datasheets.maximintegrated.com/en/ds/MAX11612-MAX11617.pdf
+$ENDCMP
+#
+$CMP DRV8874PWPR
+D H-Bridge Motor Driver With Integrated Current Sense and Regulation
+K
+F https://www.ti.com/lit/gpn/DRV8874
+$ENDCMP
+#
+$CMP MAX17612AATB+T
+D Current & Power Monitors & Regulators MAX17612A: 4.5V to 60V, 200mA Overvol
+K
+F https://www.analog.com/en/products/max17612a.html
+$ENDCMP
+#
+$CMP EXB-2HV103JV
+D Resistor Networks & Arrays 10K OHM 5%
+K
+F https://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C14.pdf
+$ENDCMP
+#
+$CMP 17EBH015PAM110
+D D-Sub High Density Connectors RA HI DENSITY 15P M #4-40 THREAD
+K
+F https://no.mouser.com/datasheet/2/18/17EBH015PXXXX0-25226.pdf
+$ENDCMP
+#
+$CMP USB4110-GF-A
+D CONN USB 2.0 TYPE-C R/A SMT
+K
+F https://gct.co/files/drawings/usb4110.pdf
+$ENDCMP
+#
+$CMP SGTL5000XNBA3
+D Interface - CODECs Audio Codec , Ultra Low-Power, 4 mw for DAC-to-HP, 98 dB SNR and -80 dB THD+N, QFN 32
+K
+F https://www.mouser.in/datasheet/2/302/SGTL5000-3076912.pdf
+$ENDCMP
+#
+$CMP STM32F401RET6
+D ARM Cortex-M4 32b MCU+FPU, 105 DMIPS, 512KB Flash/96KB RAM, 11 TIMs, 1 ADC, 11 comm. interfaces
+K
+F https://www.st.com/resource/en/datasheet/stm32f401re.pdf
+$ENDCMP
+#
+$CMP ASPI-0630LR-100M-T15
+D 10 H Shielded Molded Inductor 4 A 68mOhm Max Nonstandard
+K
+F https://abracon.com/parametric/inductors/ASPI-0630LR-100M-T15
+$ENDCMP
+#
+$CMP MAX17504ATP+
+D MAXIM INTEGRATED PRODUCTS - MAX17504ATP+ - DC/DC CONV, SYNC BUCK, 2.2MHZ, TQFN-20
+K
+F http://www.farnell.com/datasheets/2001960.pdf
+$ENDCMP
+#
+$CMP KSS221G_LFS
+D Tactile Switch SPST-NO Side Actuated Surface Mount, Right Angle
+K
+F https://www.ckswitches.com/media/1463/kss.pdf
+$ENDCMP
+#
+$CMP XC7S50-2FGGA484C
+D XILINX - XC7S50-2FGGA484C - FPGA, Spartan-7, 8150 Blocks, 52160 Macrocells, 2700Kbit RAM, 950mV to 1.05V Core Supply, FPBGA-484
+K
+F https://www.xilinx.com/support/documentation/user_guides/ug475_7Series_Pkg_Pinout.pdf
+$ENDCMP
+#
+$CMP SS-10-23NP-LE
+D Dip Switch DP3T 3 Position Through Hole Rotary with Shaft Actuator 100mA 5VDC
+K
+F http://www.farnell.com/datasheets/2604296.pdf
+$ENDCMP
+#
+$CMP DMN3027LFG-7
+D MOSFET N-Ch Enh Mode FET 30Vdss 25Vgss 70A
+K
+F https://www.diodes.com/assets/Datasheets/DMN3027LFG.pdf
 $ENDCMP
 #
 #End Doc Library

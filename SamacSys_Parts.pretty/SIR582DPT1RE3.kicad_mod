@@ -36,7 +36,7 @@
   (pad 9 smd rect (at 0.690 -0 0) (size 3.810 3.910) (layers F.Cu F.Paste F.Mask))
   (pad 10 smd rect (at 2.440 2.083 90) (size 0.255 0.310) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at 2.440 -2.083 90) (size 0.255 0.310) (layers F.Cu F.Paste F.Mask))
-  (model "C:\\Users\\320269982\\Documents\\GitHub\\KICAD Libraries\\SamacSys_Parts.3dshapes\\SI7137DP-T1-GE3.stp"
+  (model "C:\\Users\\dlora\\Documents\\GitHub\\KICAD-Libraries\\SamacSys_Parts.3dshapes\\SI7137DP-T1-GE3.stp"
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

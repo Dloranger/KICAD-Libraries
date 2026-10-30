@@ -47,9 +47,9 @@
   (pad CD1 smd rect (at -6.550 -6.9 0) (size 0.700 1.600) (layers F.Cu F.Paste F.Mask))
   (pad MH1 np_thru_hole circle (at 3.050 4.1) (size 1 1) (drill 1) (layers *.Cu *.Mask))
   (pad MH2 np_thru_hole circle (at -4.950 4.1) (size 1 1) (drill 1) (layers *.Cu *.Mask))
-  (model "C:\\Users\\320269982\\Documents\\GitHub\\KICAD Libraries\\SamacSys_Parts.3dshapes\\MSD-4-A.stp"
-    (at (xyz -0.29488188075268 -0.31732285116601 0.0019685039663409))
+  (model "C:\\Users\\dlora\\Documents\\GitHub\\KICAD-Libraries\\SamacSys_Parts.3dshapes\\MSD-4-A.stp"
+    (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz 0 0 0))
   )
 )

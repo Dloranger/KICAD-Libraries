@@ -35,7 +35,7 @@
   (fp_arc (start -6.95 -0) (end -6.925 -0) (angle -180) (layer F.SilkS) (width 0.04999999999999982))
   (pad 1 smd rect (at -4.350 -0 90) (size 2.000 4.100) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4.350 -0 90) (size 2.000 4.100) (layers F.Cu F.Paste F.Mask))
-  (model "C:\\Users\\320269982\\Documents\\GitHub\\KICAD Libraries\\SamacSys_Parts.3dshapes\\EEH-ZU1H221P.stp"
+  (model "C:\\Users\\dlora\\Documents\\GitHub\\KICAD-Libraries\\SamacSys_Parts.3dshapes\\EEH-ZU1H221P.stp"
     (at (xyz -0.012992126500513 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
