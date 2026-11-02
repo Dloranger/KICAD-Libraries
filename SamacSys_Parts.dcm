@@ -150,4 +150,16 @@ K
 F https://www.diodes.com/assets/Datasheets/DMN3027LFG.pdf
 $ENDCMP
 #
+$CMP D37S24B4PA00LF
+D D-Sub Standard Board Mount Connector, Input Output Connectors, Signal 37 way Socket Straight Solder, 200 cycles, Standard Hole, 2.4mm PCB thickness.
+K
+F https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_dsub_brochure.pdf
+$ENDCMP
+#
+$CMP REF3030AIDBZR
+D 3.0V 50ppm/Degrees C, 50uA in SOT23-3 Series (Bandgap) Voltage Reference
+K
+F http://www.ti.com/lit/gpn/ref3030
+$ENDCMP
+#
 #End Doc Library
