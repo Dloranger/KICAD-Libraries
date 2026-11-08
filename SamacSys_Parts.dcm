@@ -162,4 +162,22 @@ K
 F http://www.ti.com/lit/gpn/ref3030
 $ENDCMP
 #
+$CMP MAX11625EEG+
+D Analog to Digital Converters - ADC 10-Bit, 300ksps ADCs with FIFO and Internal Reference
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX11618-MAX11625.pdf
+$ENDCMP
+#
+$CMP MAX11632EEG+
+D 12-Bit, 300ksps ADCs with FIFO and Internal Reference
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX11626-MAX11633.pdf
+$ENDCMP
+#
+$CMP MAX11131AUI+
+D MAXIM INTEGRATED PRODUCTS - MAX11131AUI+ - ADC, 16-CH, SAR, 12BIT, 3MSPS, TSSOP-28
+K
+F https://componentsearchengine.com/Datasheets/2/MAX11131AUI+.pdf
+$ENDCMP
+#
 #End Doc Library

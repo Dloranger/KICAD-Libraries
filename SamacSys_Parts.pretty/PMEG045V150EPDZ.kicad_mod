@@ -8,7 +8,7 @@
 	(property "Reference" "D**"
 		(at -2.794 -3.048 90)
 		(layer "F.SilkS")
-		(uuid "61bca99d-0468-4c3d-8702-6bcd568aa8f0")
+		(uuid "402918c2-770e-4647-8943-9e8ecaa5fd3f")
 		(effects
 			(font
 				(size 0.8128 0.8128)
@@ -20,7 +20,7 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "7ebdf32d-46ef-43b4-b813-b65f91d1dce4")
+		(uuid "54e82cde-7c55-4e28-93be-38bf9bc4ba24")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "f8be403d-d189-4692-8f49-28719200e127")
+		(uuid "c7fafb61-3648-4f0b-acd3-16d328ece71b")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "2f601882-d5d2-4aa3-849e-d17d254f4a28")
+		(uuid "57188183-d524-490f-9dc4-1026b4efeee5")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -60,7 +60,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "2624fcb4-d663-441d-8a38-ad0beadedc27")
+		(uuid "f0235df5-326b-4b5f-8df8-0eef5887512e")
 	)
 	(fp_line
 		(start -1.065 -3.9)
@@ -70,7 +70,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "7f493fd6-9e70-4912-be0d-4221bf66b0bf")
+		(uuid "b690a27f-c2ce-4af1-b3f7-c186be2b90fa")
 	)
 	(fp_arc
 		(start -1.065 -4)
@@ -81,7 +81,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "4518b98f-c1cc-4e99-9ef4-36a4130b5bff")
+		(uuid "8ce47839-dc18-465e-b022-d95db91f37c5")
 	)
 	(fp_arc
 		(start -1.065 -3.9)
@@ -92,7 +92,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "2d8079c0-6bad-40f2-bbe4-49310674af7a")
+		(uuid "6ff51414-9c24-4c5d-a419-539df8a6fb7c")
 	)
 	(fp_line
 		(start -2.286 -3.81)
@@ -102,7 +102,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "4a7f71d7-434d-4249-abe3-0b79fb921826")
+		(uuid "2b6fe390-ff88-41ed-ac15-14680db47b5b")
 	)
 	(fp_line
 		(start -2.286 3.81)
@@ -112,7 +112,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "cdd6ba3b-9a27-4984-85fb-688160f81961")
+		(uuid "dc51cd8f-aff7-428c-a39b-1cbf40c27553")
 	)
 	(fp_line
 		(start 2.286 -3.81)
@@ -122,7 +122,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "04a3eeaa-cee6-4915-bf6f-21ce9f0444a5")
+		(uuid "5570b374-5e66-4b1b-9ebc-b3f5bdba5265")
 	)
 	(fp_line
 		(start 2.286 3.81)
@@ -132,7 +132,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "5b2abee8-8787-4f91-9e84-0edb43dabee3")
+		(uuid "fee369cd-1cd7-4a02-835e-4fb022a0bbff")
 	)
 	(fp_line
 		(start -2.15 -2.9)
@@ -142,7 +142,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "c74fec68-8c0b-4184-803e-8235f28a1bd0")
+		(uuid "9283c5d9-1d79-4a3c-ab99-1d176d3ecb85")
 	)
 	(fp_line
 		(start -2.15 2.9)
@@ -152,7 +152,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "4b0a0314-8f36-4268-91f5-640d36a2503b")
+		(uuid "fc41d00a-410e-4eea-937a-66c69d89c060")
 	)
 	(fp_line
 		(start 2.15 -2.9)
@@ -162,7 +162,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "4f11d7e0-60b2-43bc-ae15-d0f3e6d3b517")
+		(uuid "ba95be85-9689-4b92-835b-52448f89593c")
 	)
 	(fp_line
 		(start 2.15 2.9)
@@ -172,12 +172,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "14ccbbc8-ff41-4298-94f6-2ce9624799f8")
+		(uuid "c7747f3d-ca32-4aad-9363-f752237b32f1")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "57a3fafa-4de8-4a7c-b195-d9bab78170b6")
+		(uuid "e54cfcfa-027d-4b2c-9f8d-fed72dae6684")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -189,22 +189,22 @@
 		(at -1.065 -2.78 90)
 		(size 1.44 1.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "6c314c93-44ad-4dd6-aedc-180be86f5e60")
+		(uuid "44990a1d-cac0-4383-b7b4-7161a99b505e")
 	)
 	(pad "1" smd rect
 		(at 1.065 -2.78 90)
 		(size 1.44 1.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "c0c4f6a7-2392-45f7-9f77-511f589b8d77")
+		(uuid "1dc2fc96-4d18-4a05-ba1e-c37b43697a42")
 	)
 	(pad "3" smd rect
 		(at 0 1.02)
 		(size 3.8 4.96)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "c7a47652-bba9-41da-8b48-cf892344a5d7")
+		(uuid "23a0fb1f-5dab-40b0-85d8-1bbd43494524")
 	)
 	(embedded_fonts no)
-	(model "C:\\Users\\320269982\\Documents\\GitHub\\KICAD Libraries\\SamacSys_Parts.3dshapes\\PMEG045V150EPDZ.stp"
+	(model "${SAMACSYS}/SamacSys_Parts.3dshapes/PMEG045V150EPDZ.stp"
 		(offset
 			(xyz 2.900000052 -4.709999967 -3.269999932)
 		)
