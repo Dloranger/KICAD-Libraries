@@ -8,7 +8,7 @@
 	(property "Reference" "D**"
 		(at -2.794 -3.048 90)
 		(layer "F.SilkS")
-		(uuid "402918c2-770e-4647-8943-9e8ecaa5fd3f")
+		(uuid "ce9bf2d4-f9af-414f-86e9-6c70e66da837")
 		(effects
 			(font
 				(size 0.8128 0.8128)
@@ -20,7 +20,7 @@
 		(at 0 0 0)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "54e82cde-7c55-4e28-93be-38bf9bc4ba24")
+		(uuid "33867b8d-b0a2-4471-a52b-f9171722896a")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c7fafb61-3648-4f0b-acd3-16d328ece71b")
+		(uuid "53ad85f1-4ded-416b-ab60-10b9313cd9d4")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "57188183-d524-490f-9dc4-1026b4efeee5")
+		(uuid "5490522b-5389-4c0e-9b9f-dddf635535a4")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -60,7 +60,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "f0235df5-326b-4b5f-8df8-0eef5887512e")
+		(uuid "894976c8-aec5-425c-8b3a-3bbb3c28b082")
 	)
 	(fp_line
 		(start -1.065 -3.9)
@@ -70,7 +70,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "b690a27f-c2ce-4af1-b3f7-c186be2b90fa")
+		(uuid "b1e94085-1425-4a13-8187-b89f41686c15")
 	)
 	(fp_arc
 		(start -1.065 -4)
@@ -81,7 +81,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "8ce47839-dc18-465e-b022-d95db91f37c5")
+		(uuid "9eb651fb-4f18-4702-8572-0844552df133")
 	)
 	(fp_arc
 		(start -1.065 -3.9)
@@ -92,7 +92,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "6ff51414-9c24-4c5d-a419-539df8a6fb7c")
+		(uuid "f539eee0-a1d2-4be2-9a6c-5c8f6f26522c")
 	)
 	(fp_line
 		(start -2.286 -3.81)
@@ -102,7 +102,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "2b6fe390-ff88-41ed-ac15-14680db47b5b")
+		(uuid "0d559d1b-f37c-42da-83a2-03fa69fea80b")
 	)
 	(fp_line
 		(start -2.286 3.81)
@@ -112,7 +112,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "dc51cd8f-aff7-428c-a39b-1cbf40c27553")
+		(uuid "be9d3fba-8ec4-49fe-9dce-bab13df97f59")
 	)
 	(fp_line
 		(start 2.286 -3.81)
@@ -122,7 +122,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "5570b374-5e66-4b1b-9ebc-b3f5bdba5265")
+		(uuid "3abf2240-57da-4398-8219-334ca4e2fa97")
 	)
 	(fp_line
 		(start 2.286 3.81)
@@ -132,7 +132,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "fee369cd-1cd7-4a02-835e-4fb022a0bbff")
+		(uuid "52eaf6c2-9377-41b6-a5dc-24fc9297a3e4")
 	)
 	(fp_line
 		(start -2.15 -2.9)
@@ -142,7 +142,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "9283c5d9-1d79-4a3c-ab99-1d176d3ecb85")
+		(uuid "65ad79ed-5091-413c-acd5-e1af16a508e8")
 	)
 	(fp_line
 		(start -2.15 2.9)
@@ -152,7 +152,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "fc41d00a-410e-4eea-937a-66c69d89c060")
+		(uuid "831f6608-6723-486b-9c24-3e62cd594903")
 	)
 	(fp_line
 		(start 2.15 -2.9)
@@ -162,7 +162,7 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "ba95be85-9689-4b92-835b-52448f89593c")
+		(uuid "0b3ee0e1-b370-4b57-9bfb-a25cd5ab2d16")
 	)
 	(fp_line
 		(start 2.15 2.9)
@@ -172,12 +172,12 @@
 			(type solid)
 		)
 		(layer "F.Fab")
-		(uuid "c7747f3d-ca32-4aad-9363-f752237b32f1")
+		(uuid "34b20633-2d08-4657-a901-c2a24a7b2025")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "e54cfcfa-027d-4b2c-9f8d-fed72dae6684")
+		(uuid "e7dedf39-e73c-4c42-9995-1413de2f9e3a")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -189,22 +189,22 @@
 		(at -1.065 -2.78 90)
 		(size 1.44 1.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "44990a1d-cac0-4383-b7b4-7161a99b505e")
+		(uuid "bb47ac30-1e0a-4efb-a9d2-2c274d6c3588")
 	)
 	(pad "1" smd rect
 		(at 1.065 -2.78 90)
 		(size 1.44 1.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "1dc2fc96-4d18-4a05-ba1e-c37b43697a42")
+		(uuid "19d2cbf6-59c4-45a9-93f4-856f8c1d70af")
 	)
 	(pad "3" smd rect
 		(at 0 1.02)
 		(size 3.8 4.96)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "23a0fb1f-5dab-40b0-85d8-1bbd43494524")
+		(uuid "91bd7bbe-8327-4ed6-a7d7-f034af4b5cfa")
 	)
 	(embedded_fonts no)
-	(model "${SAMACSYS}/SamacSys_Parts.3dshapes/PMEG045V150EPDZ.stp"
+	(model "${SAMACSYS_PARTS}/SamacSys_Parts.3dshapes/PMEG045V150EPDZ.stp"
 		(offset
 			(xyz 2.900000052 -4.709999967 -3.269999932)
 		)

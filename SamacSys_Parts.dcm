@@ -180,4 +180,10 @@ K
 F https://componentsearchengine.com/Datasheets/2/MAX11131AUI+.pdf
 $ENDCMP
 #
+$CMP M55-7004042R
+D Kontrol: 20+20 Pos Plug DIL Straight SMT Connector 6.75mm high Pegs SMT Hold-down (T+R)
+K
+F https://content.harwin.com/m/348db7ab41cbeb9c/original/DRG-02768-Technical-Drawing-Datasheet-M55-70X-pdf.pdf
+$ENDCMP
+#
 #End Doc Library

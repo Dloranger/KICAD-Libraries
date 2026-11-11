@@ -7,7 +7,7 @@
 		(at 0 -0.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "52adb99c-7877-4fef-ad6f-2ccdb424e6db")
+		(uuid "0c553e91-cfb8-4e92-ab1e-acf15c606ed5")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 		(at 0 1 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "5d05a8dd-5e6d-4779-8bc9-e7146ac6f5b6")
+		(uuid "0da4c9e0-7fbe-44ed-a90c-055007595ff3")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "461b2b53-a5fb-4309-9059-3225d8479291")
+		(uuid "64a149bb-0cc4-4e04-a55c-460e30da5f08")
 		(effects
 			(font
 				(size 1 1)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0d44bc49-4893-465c-93c4-e0d868013944")
+		(uuid "5d6356ec-0ca3-48d5-9e9e-09152e43ca7f")
 		(effects
 			(font
 				(size 1 1)
@@ -63,7 +63,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "d86b6ef2-275f-47f7-8146-78e580fce2e9")
+		(uuid "1db32ab3-79d4-4ffb-8e53-f41df0382ab1")
 	)
 	(fp_line
 		(start -2.275 3.525)
@@ -73,7 +73,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "380a4379-817a-4311-a37b-1bf35d0a2b4d")
+		(uuid "18e316d5-5371-4110-bcb8-54e3a8c94d39")
 	)
 	(fp_line
 		(start 2.275 -3.525)
@@ -83,7 +83,7 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "6a29d1fb-c485-432e-b710-dc37e405006f")
+		(uuid "892f98d9-a754-40fb-a872-12c2e7d4e48b")
 	)
 	(fp_line
 		(start 2.275 3.525)
@@ -93,13 +93,13 @@
 			(type default)
 		)
 		(layer "F.CrtYd")
-		(uuid "5cebfcbc-3aae-4188-8b31-fc460d11be23")
+		(uuid "2d9e153b-b2aa-4563-8805-a52ed8eb3b3d")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
-		(uuid "36c086f1-828a-42f6-9dca-41270aea76a1")
+		(uuid "5bcf0784-8b3c-440f-af1a-9ef056c870eb")
 		(effects
 			(font
 				(size 1 1)
@@ -112,18 +112,18 @@
 		(size 0.7366 6.5278)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "4f2af400-2864-4150-94db-32e47c4e50cb")
+		(uuid "471156db-e8b9-48dc-a430-55e204256a42")
 	)
 	(pad "2" smd roundrect
 		(at 1.651 0)
 		(size 0.7366 6.5278)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.15)
-		(uuid "6c2f7dac-7759-4ce9-9a0f-fc6bbd39128a")
+		(uuid "1aa8b2d1-5f31-48ba-b0ec-68105fc26ef6")
 	)
 	(zone
 		(layers "F.Cu" "F.CrtYd")
-		(uuid "b5f137f9-3ae4-4421-80fc-872e1cf3ebf6")
+		(uuid "b6f059ef-e295-4b89-bc00-b907f5b8ab86")
 		(hatch edge 0.5)
 		(connect_pads
 			(clearance 0)
@@ -152,4 +152,15 @@
 		)
 	)
 	(embedded_fonts no)
+	(model "${SAMACSYS_PARTS}/Thermal Jumpers.3dshapes/THJP1225AST1.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
 )
